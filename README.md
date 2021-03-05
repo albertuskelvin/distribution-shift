@@ -4,8 +4,8 @@ This repo provides methods of measuring how two empirical distributions differ.
 
 ## Quickstart
 
-- Download the latest version of D-SHIFT in <a href="https://github.com/albertusk95/distribution-shift/releases">releases</a> tab
-- Create configuration files. See the <a href="https://github.com/albertusk95/distribution-shift/blob/master/src/main/resources/example_config.json">example</a>.
+- Download the latest version of D-SHIFT in <a href="https://github.com/albertuskelvin/distribution-shift/releases">releases</a> tab
+- Create configuration files. See the <a href="https://github.com/albertuskelvin/distribution-shift/blob/master/src/main/resources/example_config.json">example</a>.
 - Run with `java -cp <application_jar> stats.EvaluateDistribution <path_to_config_a> <path_to_config_b> ...`
 
 ## Dependencies
